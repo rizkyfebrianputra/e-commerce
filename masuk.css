@@ -1,0 +1,23 @@
+body{
+    background-color: #F6F7FE;
+}
+.login-container{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 400px;
+    height: 450px;
+    transform: translate(-50%, -50%);
+    border-radius: 15%;
+    box-shadow: 3px 3px 10px 0px #000;
+    padding: 30px;
+}
+.text-hover{
+    text-decoration: none;
+    color: #2d2d2d;
+}
+.text-hover:hover{
+    text-decoration: none;
+    
+    font-weight: 700;
+}
